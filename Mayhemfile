@@ -1,6 +1,6 @@
-project: rnshah9/shc
+project: shc
 target: shc
 
 cmds:
-  - cmd: /shc/src/shc -f @@
+  - cmd: /shc/src/shc -f /test.sh
     filepath: /test.sh
