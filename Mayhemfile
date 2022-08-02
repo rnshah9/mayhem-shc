@@ -2,5 +2,4 @@ project: shc
 target: shc
 
 cmds:
-  - cmd: /shc/src/shc -f /test.sh
-    filepath: /test.sh
+  - cmd: /install/bin/shc -f @@
